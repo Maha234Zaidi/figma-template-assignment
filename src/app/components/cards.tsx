@@ -1,7 +1,7 @@
 export default function Card() {
   return (
     <>
-      <div className="flex flex-row ml-16 space-x-5 mb-10 ">
+      <div className="flex flex-row justify-center mb-10 space-x-4 ">
         {/* Card 1 */}
         <div className=" w-[328px] h-[292px]  bg-white pt-[35px] pr-[40px] pb-[35px] pl-[40px]">
           <div className="w-14 h-16 bg-[#FFDCD1] rounded-lg"></div>

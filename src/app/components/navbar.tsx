@@ -14,7 +14,7 @@ export default function Navbar() {
           <Link href={""}>Pricing</Link>
           <Link href={""}>Contact</Link>
         </div>
-        <span className="pl-64 font-bold space-x-9 m-5 ">
+        <span className="pl-[300px] font-bold space-x-9 m-5 ">
           <button className=" text-white p-2 leading-5 tracking-wider text-sm font-[Montserrat]">
             Login
           </button>
